@@ -1,4 +1,4 @@
-# Studiplaner
+## Studiplaner
 
 Wir haben eine Webseite für Studierende der HAW entwickelt, die es erleichtern soll, ihren 
 Studienalltag zu planen und organisieren. Sie umfasst individuelle Konten mit Kalendern zum 
@@ -7,17 +7,17 @@ Gegliedert wird diese in eine Monats- und Wochenübersicht. Unser Fokus liegt da
 itiver, natürlicher Bedienbarkeit und Design, was eine angenehme Nutzererfahrung gewähr
 leisten soll.
 
-#Landing page
+## Landing page
 ![landing page](./screenshots/landingpage.PNG)
 
-#calender view
+## calender view
 ![woche_page](./screenshots/woche.PNG)
 
-#login page
+## login page
 ![login_page](./screenshots/login.PNG)
 
 
-#Technologies
+## Technologies
 
 Xampp: In unserem Projekt verwenden wir XAMPP, um unsere PHP-basierten Webanwendungen lokal zu erstellen und zu testen.
 
