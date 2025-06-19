@@ -6,14 +6,14 @@ Eintragen von wichtigen Terminen zum Beispiel Abgaben, Klausuren und eigenen Not
 ## Landing page
 ![landing page](./screenshots/landingpage.PNG)
 
-## calender view
+## Calender view
 ![woche_page](./screenshots/woche.PNG)
 
-## login page
+## Login page
 ![login_page](./screenshots/login.PNG)
 
 
-## Technologies
+## Technologien
 
 Xampp: In unserem Projekt verwenden wir XAMPP, um unsere PHP-basierten Webanwendungen lokal zu erstellen und zu testen.
 
