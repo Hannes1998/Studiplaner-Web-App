@@ -8,13 +8,13 @@ itiver, natürlicher Bedienbarkeit und Design, was eine angenehme Nutzererfahrun
 leisten soll.
 
 #Landing page
-![landing page](./screenshots/landingpage.png)
+![landing page](./screenshots/landingpage.PNG)
 
 #calender view
-![woche_page](./screenshots/woche.png)
+![woche_page](./screenshots/woche.PNG)
 
 #login page
-![login_page](./screenshots/login.png)
+![login_page](./screenshots/login.PNG)
 
 
 #Technologies
