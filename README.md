@@ -3,6 +3,8 @@
 Wir haben eine Webseite für Studierende der HAW entwickelt, die es erleichtern soll, ihren Studienalltag zu planen und organisieren. Sie umfasst individuelle Konten mit Kalendern zum 
 Eintragen von wichtigen Terminen zum Beispiel Abgaben, Klausuren und eigenen Notizen. Gegliedert wird diese in eine Monats- und Wochenübersicht. Unser Fokus liegt dabei auf intuitiver, natürlicher Bedienbarkeit und Design, was eine angenehme Nutzererfahrung gewährleisten soll.
 
+For more information please refer to the documentation PDF.
+
 ## Landing page
 ![landing page](./screenshots/landingpage.PNG)
 
