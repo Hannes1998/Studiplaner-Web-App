@@ -1,7 +1,7 @@
 ## Studiplaner
 
-Wir haben eine Webseite für Studierende der HAW entwickelt, die es erleichtern soll, ihren Studienalltag zu planen und organisieren. Sie umfasst individuelle Konten mit Kalendern zum 
-Eintragen von wichtigen Terminen zum Beispiel Abgaben, Klausuren und eigenen Notizen. Gegliedert wird diese in eine Monats- und Wochenübersicht. Unser Fokus liegt dabei auf intuitiver, natürlicher Bedienbarkeit und Design, was eine angenehme Nutzererfahrung gewährleisten soll.
+We developed a website for students at HAW designed to make planning and organizing their academic life easier.
+It features individual accounts with calendars to record important dates such as assignment deadlines, exams, and personal notes. The calendar is structured with both monthly and weekly views. Our focus is on intuitive and natural usability, combined with thoughtful design, to ensure a pleasant user experience.
 
 For more information please refer to the documentation PDF.
 
@@ -15,12 +15,12 @@ For more information please refer to the documentation PDF.
 ![login_page](./screenshots/login.PNG)
 
 
-## Technologien
+## Technologies:
 
-Xampp: In unserem Projekt verwenden wir XAMPP, um unsere PHP-basierten Webanwendungen lokal zu erstellen und zu testen.
+XAMPP: We use XAMPP to develop and test our PHP-based web applications locally.
 
-Mailgun: Wir nutzen Mailgun als externen, kostenlosen Mailserver, um programmatisch dynamisch erstellte Emails versenden zu können, wenn Nutzende ihr Passwort zurücksetzen möchten. 
+Mailgun: We utilize Mailgun as an external, free mail server to programmatically send dynamically generated emails, for example, when users request a password reset.
 
-HTML, CSS und Javascript: HTML, CSS und Javascript sind die drei wichtigsten Sprachen moderner Webentwicklung. 
+HTML, CSS, and JavaScript: These are the three core languages of modern web development.
 
-PHP: Unser Projekt erfordert die Generierung und Bearbeitung dynamischer Inhalte basierend auf Benutzereingaben und Datenbankabfragen. PHP ist ideal für diese Aufgabe, da es serverseitige Bearbeitung von Nutzerdaten ermöglicht.
+PHP: Our project requires the generation and processing of dynamic content based on user input and database queries. PHP is ideal for this, as it enables server-side handling of user data.
